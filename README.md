@@ -9,8 +9,11 @@ Create a database for teams in the IPL containing a list of players, match recor
 Our Team:
 ---------------------
 Manishk Santosh Gawande   -     Database Administrator 
+
 Varad Vishvesh Potdar     -     Back-end developer
+
 Manav Natarajan           -     Front-end/GUI Developer
+
 Devesh Singh Ratra        -     Web Developer
  
 
@@ -18,10 +21,15 @@ Devesh Singh Ratra        -     Web Developer
 Our Resources:
 ---------------------
 MySQL    -    https://www.mysql.com
+
 Python   -    https://www.python.org
+
 Tkinter  -    Inbuilt into python
+
 Django   -    https://www.djangoproject.com
+
 HTML     -    Inbuilt into Web Browsers
+
 CSS      -    Inbuilt into Web Browsers
 
 
